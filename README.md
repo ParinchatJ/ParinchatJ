@@ -24,11 +24,13 @@ ___
 ___
 
 
-<h3 align="left">:hammer_and_wrench: Languages and Tools:</h3>
+<h3 align="left">:hammer_and_wrench: Skills:</h3>
 
+<h5 align="left">Design Tools</h5>
 
 <div>
-  <img src="https://img.shields.io/badge/WakaTime-000000?style=for-the-badge&logo=WakaTime&logoColor=white" />
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+<img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" />
 </div>
 
 ___
