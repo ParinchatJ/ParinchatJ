@@ -10,7 +10,7 @@ ___
 
 - 🌱 I’m currently learning **Typescript Golang Nestjs**
 
-- 👨‍💻 All of my projects are available at [Portlink](https://parinchatj-portfolio.vercel.app/)
+- 👨‍💻 All of my projects are available at [Portfoliolink](https://parinchatj-portfolio.vercel.app/)
 
 - 💬 Ask me about **MERN Python**
 
