@@ -16,7 +16,7 @@ ___
 
 - 📫 How to reach me **j.parinchat@gmail.com**
 
-- 📄 Know about my experiences [-resumelink-](-resumelink-)
+- 📄 Know about my experiences [-resumelink-](https://drive.google.com/file/d/10jrKOtgUPvgUnN4fyPCSYEBXEdfYmDe1/view?usp=sharing)
 
 - :dizzy: Fun fact **Everything is a new challenge to learn!**
 
