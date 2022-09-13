@@ -10,13 +10,13 @@ ___
 
 - 🌱 I’m currently learning **Typescript Golang Nestjs**
 
-- 👨‍💻 All of my projects are available at [Portfoliolink](https://parinchatj-portfolio.vercel.app/)
+- 👨‍💻 All of my projects are available at [Portfoliolink](https://parinchatj.vercel.app/)
 
 - 💬 Ask me about **MERN Python**
 
 - 📫 How to reach me **j.parinchat@gmail.com**
 
-- 📄 Know about my experiences [Resumelink](https://drive.google.com/file/d/10jrKOtgUPvgUnN4fyPCSYEBXEdfYmDe1/view?usp=sharing)
+- 📄 Know about my experiences [Resumelink](https://drive.google.com/drive/u/2/folders/15nCqbuA-4EfJJzBqN1Y9YWr6d3hYu2sH)
 
 - :dizzy: Fun fact **Everything is a new challenge to learn!**
 
