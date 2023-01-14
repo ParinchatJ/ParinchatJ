@@ -8,7 +8,7 @@
 
 ___
 
-- 🌱 I’m currently learning **Typescript Golang Nestjs**
+- 🌱 I’m currently learning **Golang**
 
 - 👨‍💻 All of my projects are available at [Portfoliolink](https://parinchatj.vercel.app/)
 
