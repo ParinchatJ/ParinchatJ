@@ -1,4 +1,4 @@
-<h1 align="center">Hi !(https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) , I'm Parinchat Juntaworn :smile_cat:</h1>
+<h1 align="center">Hi!🐈 I'm Parinchat Juntaworn :smile_cat:</h1>
 <div id="badges" align="center">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/jparinchat/"/>
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="mailto:j.parinchat@gmail.com"/>
