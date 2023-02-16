@@ -4,8 +4,8 @@
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="mailto:j.parinchat@gmail.com"/>
 </div>
 <h3 align="center">Learner in Junior Sofrware Developer bootcamp at Generation Thailand | Seeking for opportunity software developer (Backend) position</h3>
-<p align="center">You can call me Po. After graduated, I joined Generation's Junior Software Developer Bootcamp and practiced hard as
-a web developer, backend and frontend.</p>
+<p align="center">You can call me Po. After graduated, I joined Generation's Junior Software Developer Bootcamp 
+and practiced hard as a web developer, backend and frontend.</p>
 
 ___
 
