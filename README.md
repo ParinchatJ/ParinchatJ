@@ -1,10 +1,11 @@
-<h1 align="center">Hi 👋 , I'm ParinchatJ :smile_cat:</h1>
+<h1 align="center">Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) , I'm Parinchat Juntaworn :smile_cat:</h1>
 <div id="badges" align="center">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/jparinchat/"/>
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="mailto:j.parinchat@gmail.com"/>
 </div>
-<h3 align="center">Learner Software Developer at Generation Thailand | Seeking for opportunity software developer job</h3>
-<p align="center">Hello! My name is Parinchat Juntaworn. My interest in website development started when I learned at University and did my final project about machine learning that involved writing code. Even though I didn't graduate in computer science but I practice backend and frontend to be a web developer so hard. And now I'm ready to seek a challenging opportunity to work in a developer position.</p>
+<h3 align="center">Learner in Junior Sofrware Developer bootcamp at Generation Thailand | Seeking for opportunity software developer (Backend) position</h3>
+<p align="center">You can call me Po. After graduated, I joined Generation's Junior Software Developer Bootcamp and practiced hard as
+a web developer, backend and frontend.</p>
 
 ___
 
