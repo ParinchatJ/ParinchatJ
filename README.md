@@ -9,7 +9,7 @@ and practiced hard as a web developer, backend and frontend.</p>
 
 ___
 
-- 🌱 I’m currently learning **Golang**
+- 🌱 I’m currently learning **Swift**
 
 - 👨‍💻 All of my projects are available at [Portfoliolink](https://parinchatj.vercel.app/)
 
