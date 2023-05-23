@@ -2,6 +2,7 @@
 <div id="badges" align="center">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/jparinchat/"/>
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="mailto:j.parinchat@gmail.com"/>
+  <a href="http://www.medium.com/@parinchat.j" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a>
 </div>
 <h3 align="center" maxWidth="300px">Learner in Junior Sofrware Developer bootcamp at Generation Thailand | Seeking for opportunity software developer (Backend) position</h3>
 <p align="center">You can call me Po. After graduated, I joined Generation's Junior Software Developer Bootcamp <br />
