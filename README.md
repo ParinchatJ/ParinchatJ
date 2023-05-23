@@ -18,8 +18,6 @@ ___
 
 - 👨‍💻 All of my projects are available at [Portfoliolink](https://parinchatj.vercel.app/)
 
-- 💬 Ask me about **MERN Python**
-
 - 📫 How to reach me **j.parinchat@gmail.com**
 
 - 📄 Know about my experiences [Resumelink](https://drive.google.com/drive/u/2/folders/15nCqbuA-4EfJJzBqN1Y9YWr6d3hYu2sH)
