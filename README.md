@@ -1,6 +1,14 @@
 <h1 align="center">Hi!🐈 I'm Parinchat Juntaworn :smile_cat:</h1>
 <div id="badges" align="center">
-  <a href="https://www.github.com/ParinchatJ" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/jparinchat" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="http://www.medium.com/@parinchat.j" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a>
+  <a href="https://github.com/ParinchatJ" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/jparinchat" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://medium.com/@parinchat.j" target="_blank">
+<img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
+</a>  
 </div>
 <h3 align="center" maxWidth="300px">Learner in Junior Sofrware Developer bootcamp at Generation Thailand | Seeking for opportunity software developer (Backend) position</h3>
 <p align="center">You can call me Po. After graduated, I joined Generation's Junior Software Developer Bootcamp <br />
