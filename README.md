@@ -11,7 +11,7 @@
 </a>  
 </div>
 <h3 align="center" maxWidth="300px">Learner in Junior Sofrware Developer bootcamp at Generation Thailand <br /> Seeking for opportunity Software Testing position (manual and automation)</h3>
-<p align="center"> Skilled in basic manual testing, creating test cases, logging issues, scenarios, and basic Python. Seeking to contribute and grow in the field of software testing</p>
+<p align="center"> Skilled in basic manual testing, creating test cases, logging issues, and scenarios as well as basic Python proficiency. Focused on contributing to and advancing in the field of software testing.</p>
 
 ___
 
