@@ -10,9 +10,8 @@
 <img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
 </a>  
 </div>
-<h3 align="center" maxWidth="300px">Learner in Junior Sofrware Developer bootcamp at Generation Thailand | Seeking for opportunity Software Testing position</h3>
-<p align="center">You can call me Po. After graduated, I joined Generation's Junior Software Developer Bootcamp <br />
-and practiced hard as a web developer, backend and frontend.</p>
+<h3 align="center" maxWidth="300px">Learner in Junior Sofrware Developer bootcamp at Generation Thailand <br /> Seeking for opportunity Software Testing position (manual and automation)</h3>
+<p align="center"> Skilled in basic manual testing, creating test cases, logging issues, scenarios, and basic Python. Seeking to contribute and grow in the field of software testing</p>
 
 ___
 
