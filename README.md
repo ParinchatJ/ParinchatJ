@@ -10,7 +10,7 @@
 <img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
 </a>  
 </div>
-<h3 align="center" maxWidth="300px">Learner in Junior Sofrware Developer bootcamp at Generation Thailand | Seeking for opportunity software developer position</h3>
+<h3 align="center" maxWidth="300px">Learner in Junior Sofrware Developer bootcamp at Generation Thailand | Seeking for opportunity Software Testing position</h3>
 <p align="center">You can call me Po. After graduated, I joined Generation's Junior Software Developer Bootcamp <br />
 and practiced hard as a web developer, backend and frontend.</p>
 
