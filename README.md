@@ -16,7 +16,7 @@ and practiced hard as a web developer, backend and frontend.</p>
 
 ___
 
-- 👨‍💻 All of my projects are available at [Portfoliolink](https://parinchatj.vercel.app/)
+- 👨‍💻 All of me to know [Portfoliolink](https://parinchatj.vercel.app/)
 
 - 📫 How to reach me **j.parinchat@gmail.com**
 
@@ -44,7 +44,6 @@ ___
 <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" />
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
 <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
 <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
 <img src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E" />
