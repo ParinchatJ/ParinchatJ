@@ -11,7 +11,7 @@
 </a>  
 </div>
 <h3 align="center" maxWidth="300px">Learner in Junior Sofrware Developer bootcamp at Generation Thailand <br /> Seeking for opportunity Software Testing position (manual and automation)</h3>
-<p align="center"> Skilled in basic manual testing, creating test cases, logging issues, and scenarios as well as basic Python proficiency.<br /> Focused on contributing to and advancing in the field of software testing.</p>
+<p align="center">Detail-oriented Software Tester with 6+ months of experience in ensuring software quality. Skilled in creating and executing test cases, effectively communicating bugs to development teams, and leading UAT sessions. Experienced in working within SDLC frameworks and have hands-on experience with Robot Framework. Also possess a foundational understanding of software development.</p>
 
 ___
 
